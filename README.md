@@ -1,0 +1,1 @@
+# Trash-Classification-6-Classes-MobileNetV2-ONNXRuntime
